@@ -1,0 +1,12 @@
+RunType=FiniteT
+OptType=TimeEvolution
+markovSteps=5000
+TimeStepsTaken=50
+StepSize=0.002
+EquilSweeps=1000
+SampleSweeps=1000
+Heisenberg1=bonds.txt
+Heisenberg1_J=1.0
+WaveFunction=CPS
+NumWalkers=32
+OutFileBase=MyRun
